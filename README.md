@@ -18,12 +18,14 @@ This script adds a **Quick Save** and **Quick Load** functionality to RPG Maker 
    - Open your project in RPG Maker VX Ace.
    - Press **F11** to open the **Script Editor**.
    - Paste the `QuickSaveQuickLoad.rb` script at the very bottom of the script list (after the default scripts).
+   - Keep in mind this will need to go UNDER main
 
 3. **Save Your Project**:
    - After inserting the script, save your project to ensure the changes are applied.
 
 4. **Access the Quick Save and Quick Load**:
    - During gameplay, press **F5** to quickly save and **F9** to load the game.
+   - Note: This will not function properly without the QuickSaveQuickLoad
 
 ## How to Use
 
